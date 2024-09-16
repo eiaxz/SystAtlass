@@ -100,7 +100,6 @@ client.on("messageCreate", async (message) => {
     }
   }
 });
-
 ///////////////////////////////////////
 ////timeout updated
 client.on("messageCreate", async message => {
